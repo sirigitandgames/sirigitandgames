@@ -5,14 +5,13 @@
 
 
   <div>
-   <img height="180em" alt="Rafa-yoda" src="https://64.media.tumblr.com/116cfee8c7a75c94954b1ae644e01e43/66cbf842446baa19-49/s400x600/e04f8e609888c5cee8cdb0ffdd16a71a38504cb6.gifv">  
+   <img height="180em" alt="Rafa-yoda" src="https://64.media.tumblr.com/d66de0f8fbbcebd36f92e94683368033/66cbf842446baa19-fc/s400x600/b87af479147b9ccc77d21b0d0d63af513191961f.gif">  
   <a href="https://github.com/raffaelaballerini">
     ##
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirigitandgames&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirigitandgames&layout=compact&langs_count=7&theme=dark"/>   
- ##
- <img height="180em" alt="Rafa-yoda" src="https://64.media.tumblr.com/d66de0f8fbbcebd36f92e94683368033/66cbf842446baa19-fc/s400x600/b87af479147b9ccc77d21b0d0d63af513191961f.gif">  
-</div>
+ 
+
 
   
  
